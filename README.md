@@ -4,7 +4,7 @@
 - 🤝 Open to collaboration on web development projects 
 - 📫 Reach me at: ✉️ anjalyprakasan001@gmail.com  
 - 😄 Pronouns: She/Her/Hers
-- ⚡ I enjoy experimenting with new recipes in the kitchen 🍳
+- ⚡ Fun Fact: I enjoy experimenting with new recipes in the kitchen 🍳
 
 <!---
 AnjalyPrakasan/AnjalyPrakasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
