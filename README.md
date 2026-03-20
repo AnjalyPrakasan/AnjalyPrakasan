@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnjalyPrakasan
-- 💻 I’m a **Full-Stack Developer** with **1 year of professional experience** in **Angular and .NET**, building **responsive web applications** and integrating **RESTful APIs**.  
+- 💻 I’m a **Full-Stack Developer** with **1 year of professional experience** in **Angular, React and .NET**, building **responsive web applications** and integrating **RESTful APIs**.  
 - 🌱 I also have knowledge of the **MERN stack** and enjoy exploring **JavaScript projects**  
 - 🤝 Open to collaboration on web development projects 
 - 📫 Reach me at: ✉️ anjalyprakasan001@gmail.com  
